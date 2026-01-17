@@ -101,8 +101,8 @@ Projet réalisé par :
 * **Aya Fadel**
 * **Najoua Mouaddab**
 
----
 
-*Ce projet a été réalisé dans un cadre académique.*
 
-```
+* **Ce projet a été réalisé dans un cadre académique.**
+
+
