@@ -36,8 +36,6 @@ Le dépôt contient les fichiers suivants :
 
 Si vous souhaitez lancer le projet sur votre machine :
 
-```
-```
 1. **Cloner le dépôt :**
 ```bash
 git clone https://github.com/flamekk/heart-disease-prediction_mini_project.git
@@ -56,16 +54,12 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
-```
-```
 4. **(Optionnel) Ré-entraîner le modèle :**
 Si vous souhaitez régénérer le fichier `Model.pkl` et les graphiques d'analyse :
 ```bash
 python heart_disease_modeling.py
 
 ```
----
-
 ## 📊 Méthodologie
 
 ### 1. Prétraitement (Pipeline)
