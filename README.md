@@ -36,10 +36,12 @@ Le dépôt contient les fichiers suivants :
 
 Si vous souhaitez lancer le projet sur votre machine :
 
+```
+```
 1. **Cloner le dépôt :**
-   ```bash
-   git clone [https://github.com/flamekk/heart-disease-prediction_mini_project.git](https://github.com/flamekk/heart-disease-prediction_mini_project.git)
-   cd heart-disease-prediction_mini_project
+```bash
+git clone https://github.com/flamekk/heart-disease-prediction_mini_project.git
+cd heart-disease-prediction_mini_project
 
 ```
 
@@ -49,24 +51,19 @@ Assurez-vous d'avoir Python installé, puis exécutez :
 pip install -r requirements.txt
 
 ```
-
-
 3. **Lancer l'application Streamlit :**
 ```bash
 streamlit run app.py
 
 ```
-
-
+```
+```
 4. **(Optionnel) Ré-entraîner le modèle :**
 Si vous souhaitez régénérer le fichier `Model.pkl` et les graphiques d'analyse :
 ```bash
 python heart_disease_modeling.py
 
 ```
-
-
-
 ---
 
 ## 📊 Méthodologie
